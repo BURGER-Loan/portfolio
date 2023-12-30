@@ -1,0 +1,75 @@
+{
+    "intro": "Durant mon cursus universitaire j'ai pu decouvrir et apprendre de nombreux langages de programmation et technologies. J'ai pu travailler sur des projets personnels et professionnels qui m'ont permis d'acquerir de l'experience et de me familiariser avec les outils de developpement suivant :",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/cpp.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/csharp.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & API",
+            "items" : [
+                {
+                    "icon": "images/skills/unity.png",
+                    "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/vs.png",
+                    "title": "Visual Studio"
+                },
+                {
+                    "icon": "images/skills/vsc.png",
+                    "title": "Visual Studio Code"
+                },
+                {
+                    "icon": "images/skills/Qt.png",
+                    "title": "Qt Creator"
+                },
+                {
+                    "icon": "images/skills/opengl.png",
+                    "title": "OpenGL"
+                },
+                {
+                    "icon": "images/skills/OGRE.png",
+                    "title": "OGRE3D"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                }
+            ]
+    }
+]}

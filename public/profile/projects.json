@@ -1,0 +1,271 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/LIFPROJET.PNG",
+            "title": "A-LSD, Jeu Projet (Licence)",
+            "bodyText": "-  Unity 3D C#\n -  Jeu realisé dans le cadre du projet de fin de licence\n",
+            "links": [
+                {
+                    "text": "Drive",
+                    "href": "https://drive.google.com/drive/folders/16JR-zmQVlg_75TvHjL0bFc_SbLECnnlg?usp=sharing  "
+                },
+                {
+                    "text": "Rapport",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/AFAIRE----------------LIFPROJET/RapportProjet_Groupe_A-LSD-1.pdf?ref_type=heads"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#",
+                "Game Development"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/mg.png",
+            "title": "Sculplteur de formes (Master ID3D)",
+            "bodyText": "- Sculpteur de formes 3D à partir de primitives géométriques.\n - Arbres de Signed Distance Function et Cube Marching.\n - Fonctionalité d'érosion sur les objets sculté \n - Affichage de surfaces de bézier.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/ModelisationGeometrique/mg?ref_type=heads"
+                },
+                {
+                    "text": "Rapport Surface implicite",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/ModelisationGeometrique/RapportSI_BURGER_Loan.pdf?ref_type=heads"
+                },
+                {
+                    "text": "Rapport Courbe de bezier",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/ModelisationGeometrique/RapportDeformation_BURGER_Loan.pdf?ref_type=heads"
+                }
+                
+            ],
+            "tags" : [
+                "C++",
+                "Signed Distance Function",
+                "Implicite Surface",
+                "Marching Cube",
+                "Master ID3D"
+            ]
+        },
+        {
+            "image" : "images/projects/perso.png",
+            "title": "Projet Perso Unity",
+            "bodyText": "- Jeu 2D \n - Animation Sprite \n - Interaction avec l'environnement",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/ProjetPerso-Unity/DashColor?ref_type=heads"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/ProjetPerso-Unity/perso.mp4?ref_type=heads"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Unity",
+                "Sprite"
+            ]
+        },
+        {
+            "image" : "images/projects/SI3D.png",
+            "title": "Synthese d'image 3D (Master ID3D)",
+            "bodyText": "- Rendu de scène 3D pour SI3D et Programmation GPU.\n - Shadow Mapping. \n - Compute shaders, Frustum culling, Normal Mapping \n - Ray tracing, estimation de monte carlo",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://forge.univ-lyon1.fr/p1908367/gkit2light-m2"
+                },
+                {
+                    "text": "Rapport",
+                    "href": ""
+                }
+
+            ],
+            "tags" : [
+                "C++",
+                "OPENGL",
+                "G2KitLight",
+                "Ray casting",
+                "Shadow mapping"
+            ]
+        },
+        {
+            "image" : "images/projects/Lifgraphique.PNG",
+            "title": "Modelisation 3D - Primitive/Terrain/Billboard (Licence)",
+            "bodyText": "- Modelisation de primative en surface parametrique\n - Realisation d'objet complexe \n - Generation du maillage d'un terrain avec une heightmap\n - Creation de billboard\n - Animation de sprite 2D",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/LIFGRAPHIC-Licence?ref_type=heads"
+                },  
+                {
+                    "text" : "Rapport",
+                    "href" : "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/LIFGRAPHIC-Licence/Documentation/UE-INF2012L_Depot_Rapport_TP_BURGER__Loan_p1926134.pdf?ref_type=heads"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "3D",
+                "Sprite",
+                "Billboard"
+            ]
+        },
+        {
+            "image" : "images/projects/mif.png",
+            "title": "Modelisation 3D - Primitive/Terrain (Master)",
+            "bodyText": "- Modelisation de primative en surface parametrique\n - Realisation de fonction de deformation locale et de fusion de maillage \n - Realisation d'objet complexe \n - Generation du maillage d'un terrain avec une heightmap\n",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/MIFGRAPHIC-Master?ref_type=heads"
+                },         
+                {
+                    "text" : "Rapport",
+                    "href" : "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/MIFGRAPHIC-Master/Documentation/Rapport.pdf?ref_type=heads"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "QtCreator",
+                "Deformation locale"
+            ]
+        },
+        {
+            "image" : "images/projects/tissu.png",
+            "title": "Animation tissu en 3D (Master)",
+            "bodyText": "- Modelisation d'un Tissu en 3D.\n - Animation via un systeme Masse-ressort avec resolution semi implicite. \n - Rajout de force (vent, gravité, etc...). \n - Integration de collision avec un objet rigide.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/Animation/Tissu/gkit2light?ref_type=heads"
+                },
+                {
+                    "text": "Rapport",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/Animation/Tissu/BURGER_LOAN_RAPPORT.pdf?ref_type=heads"
+                },   
+                {
+                    "text": "Video",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/Animation/Tissu/tissu.mp4?ref_type=heads"
+                }
+                
+
+            ],
+            "tags" : [
+                "C++",
+                "G2KitLight",
+                "Animation"
+            ]
+        },
+        {
+            "image" : "images/projects/meyer.png",
+            "title": "Animation de personnage en 3D (Master)",
+            "bodyText": "- Animation basée squelette via BVH.\n - Interpolation entre 2 frames \n - Graphe d'animation.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/Animation/Personnage/gkit2light-master_CharAnim?ref_type=heads"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/Animation/Personnage/personnage.mp4?ref_type=heads"
+                }
+                ],
+            "tags" : [
+                "C++",
+                "BVH",
+                "G2KitLight",
+                "Animation",
+                "Graphe d'animation"
+            ]
+        },        
+        {
+            "image" : "images/projects/region.png",
+            "title": "Analyse d'image - Region Growing (Master)",
+            "bodyText": "- Implémentation de l'algorithme de Region Growing en Python.\n ",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/AnalyseImage?ref_type=heads"
+                },
+                {
+                    "text" : "Rapport",
+                    "href" : "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/AnalyseImage/Documentation/Analyse_Rapport___analyse_d'image.pdf?ref_type=heads"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "ipynb ",
+                "Analyse"
+            ]
+        },
+        {
+            "image" : "images/projects/ouv.png",
+            "title": "Jeu de Dame IA Modelisation distribué (Master)",
+            "bodyText": "- Jeu de dame en JAVA\n - IA Modelisation distribué\n - Interface graphique avec Swing",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/Ouverture?ref_type=heads"
+                },
+                {
+                    "text": "Rapport",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/Ouverture/Documentation/Rapport%20projet%20transversal.pdf?ref_type=heads"
+                },
+                {
+                    "text": "Video",
+                    "href" : "https://drive.google.com/file/d/1LJiCk6wNG0gyXdpqh1SVMAMjBOHWWsk9/view"
+                }
+            ],
+            "tags" : [
+                "JAVA",
+                "SWING",
+                "IA",
+                "Modelisation distribué"
+            ]
+        },
+        {
+            "image" : "images/projects/idefix.png",
+            "title": "Projet Innovant IDEFIX (Master)",
+            "bodyText": "- Montage d'un robot joueur de foot en lego.\n - Deplacement avec 3 roue omnidirectionelle.\n - Detection de la balle avec un capteur IR.\n - Fonction de deplacement et de tir.\n - Gestion de la strategie sur UN robot.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/tree/main/ProjetIDEFIX?ref_type=heads"
+                },
+                {
+                    "text": "Rapport",
+                    "href": "https://gitlab.com/loan.burger26140/portfolio/-/blob/main/ProjetIDEFIX/Documentation/Projet%20Transversal%20Innovant-1.pdf?ref_type=heads"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "EV3Dev",
+                "Robotique",
+                "Legomindstorm"
+            ]
+        },
+        {
+            "title": "Animation cinematique inverse Fabrik (Master ID3D)",
+            "bodyText": "- Cinématique directe et inverse.\n - Skinning \n - Graphe d’animation et motion matching",
+            "tags" : [
+                "C#",
+                "Unity",
+                "G2KitLight",
+                "Animation",
+                "FABRIK"
+            ]
+        },
+        {
+            "title": "Animation par modèles physiques(Master ID3D)",
+            "bodyText": "- Dynamique des objets rigides \n - Dynamique Newtonienne \n - Collisions",
+            "tags" : [
+                "C++",
+                "G2KitLight",
+                "Animation",
+                "RIGID BODY"
+            ]
+        }
+    ]
+}

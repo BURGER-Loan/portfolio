@@ -1,0 +1,16 @@
+{
+    "experiences": [
+        {
+            "title": "Developpeur C++ 3D",
+            "subtitle": "Ice-Development, Lyon",
+            "workType": "Stage",
+            "workDescription": [
+                "Environnement : Visual Studio C++.",
+                "Mission : Ajouts/Correction fonctionnalité sur un projet existant.",
+                "Réalisation : Correction lié au maillage, Animation camera, Design prototype gestionnaire d’animation, Modification/Uilisation plugin Blender"
+            ],
+            "dateText": "Avril 2022 – Juillet 2022"
+        }
+
+    ]
+}

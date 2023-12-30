@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/loan-burger-1bb155223/"
+        },
+        {
+            "network" : "gitlab",
+            "href": "https://gitlab.com/loan.burger26140/portfolio"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:loan.burger26140@gmail.com"
+        }
+    ]
+}
